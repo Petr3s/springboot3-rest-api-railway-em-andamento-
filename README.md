@@ -1,7 +1,7 @@
 #BootcampJava
 Java Rest ful Api criada pra estudo
 #Diagrama De Código 
-mermaid ...
+```mermaid
 classDiagram
 
 class User {
@@ -42,4 +42,4 @@ User --> Account
 User --> Card
 User --> Feature
 User --> News
-...
+```
